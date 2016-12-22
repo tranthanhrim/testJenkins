@@ -99,5 +99,7 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
-    new update;
+    public void errorFunction() {
+        ERROR!
+    }
 }
